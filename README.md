@@ -7,7 +7,7 @@
     1. [**Введение в основы теории вероятностей и математической статистики**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_1)
 	2. [**Нормальное распределение и его свойства. Основы корреляционного анализа**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_2)
 	3. [**Предельные теоремы в статистике**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_3)
-	4. [**Доверительные интервалы**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_3)
+	4. [**Доверительные интервалы**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_4)
 	5. Введение в проверку гипотез 
 	6. Непараметрические критерии
 	7. Процедуры AB-тестирования
