@@ -19,6 +19,7 @@
 ## Domesticum[^1]
 
 [Exercitationem I](https://github.com/hdrbv/applied_statistics_hse/tree/main/home_assignments/ha1)
+
 [Exercitationem II](https://github.com/hdrbv/applied_statistics_hse/tree/main/home_assignments/ha2)
 
 [^1]: https://classroom.google.com/c/Njk1MzkwNTMxNDk2?cjc=yqx3cmz
