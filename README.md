@@ -22,5 +22,7 @@
 
 [Exercitationem II](https://github.com/hdrbv/applied_statistics_hse/tree/main/home_assignments/ha2)
 
+[Exercitationem III](https://github.com/hdrbv/applied_statistics_hse/tree/main/home_assignments/ha3)
+
 [^1]: https://classroom.google.com/c/Njk1MzkwNTMxNDk2?cjc=yqx3cmz
 
