@@ -9,7 +9,7 @@
 	3. [**Предельные теоремы в статистике**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_3)
 	4. [**Доверительные интервалы**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_4)
 	5. [**Введение в проверку гипотез**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_5) 
-	6. Непараметрические критерии
+	6. [**Непараметрические критерии**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_6) 
 	7. Процедуры AB-тестирования
 	8. Множественная проверка гипотез 
 	9. Линейная регрессия 
