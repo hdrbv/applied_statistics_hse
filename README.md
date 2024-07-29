@@ -10,8 +10,8 @@
 	4. [**Доверительные интервалы**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_4)
 	5. [**Введение в проверку гипотез**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_5) 
 	6. [**Непараметрические критерии**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_6) 
-	7. Процедуры AB-тестирования
-	8. Множественная проверка гипотез 
+	7. [**Процедуры AB-тестирования**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_7)
+	8. [**Множественная проверка гипотез**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_8)
 	9. Линейная регрессия 
 	10. Анализ временных рядов
 </pre></big>
@@ -23,6 +23,8 @@
 [Exercitationem II](https://github.com/hdrbv/applied_statistics_hse/tree/main/home_assignments/ha2)
 
 [Exercitationem III](https://github.com/hdrbv/applied_statistics_hse/tree/main/home_assignments/ha3)
+
+[Exercitationem IV](https://github.com/hdrbv/applied_statistics_hse/tree/main/home_assignments/ha4)
 
 [^1]: https://classroom.google.com/c/Njk1MzkwNTMxNDk2?cjc=yqx3cmz
 
