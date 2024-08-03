@@ -12,7 +12,7 @@
 	6. [**Непараметрические критерии**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_6) 
 	7. [**Процедуры AB-тестирования**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_7)
 	8. [**Множественная проверка гипотез**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_8)
-	9. Линейная регрессия 
+	9. [**Линейная регрессия**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_8)
 	10. Анализ временных рядов
 </pre></big>
 
@@ -25,6 +25,8 @@
 [Exercitationem III](https://github.com/hdrbv/applied_statistics_hse/tree/main/home_assignments/ha3)
 
 [Exercitationem IV](https://github.com/hdrbv/applied_statistics_hse/tree/main/home_assignments/ha4)
+
+[Exercitationem V](https://github.com/hdrbv/applied_statistics_hse/tree/main/home_assignments/ha5)
 
 [^1]: https://classroom.google.com/c/Njk1MzkwNTMxNDk2?cjc=yqx3cmz
 
