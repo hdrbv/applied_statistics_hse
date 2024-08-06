@@ -13,7 +13,7 @@
 	7. [**Процедуры AB-тестирования**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_7)
 	8. [**Множественная проверка гипотез**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_8)
 	9. [**Линейная регрессия**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week_9)
-	10. Анализ временных рядов
+	10. [**Анализ временных рядов**](https://github.com/hdrbv/applied_statistics_hse/tree/main/week__10)
 </pre></big>
 
 ## Domesticum[^1]
