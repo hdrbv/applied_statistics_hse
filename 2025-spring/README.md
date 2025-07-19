@@ -18,6 +18,15 @@
 
 ## Domesticum[^1]
 
-Exercitationem I (TBD)
+[Exercitationem I](./home_assignments/ha1)
 
-[^1]: tbd
+[Exercitationem II](./home_assignments/ha2)
+
+[Exercitationem III](./home_assignments/ha3)
+
+[Exercitationem IV](./home_assignments/ha4)
+
+[Exercitationem V](./home_assignments/ha5)
+
+
+[^1]: Домашние работы доступны также в личном кабинете студента ВШЭ
